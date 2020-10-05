@@ -10,3 +10,7 @@ python yoloface.py --image samples/outside_000001.jpg \
 python yoloface.py --video samples/subway.mp4 \
                                     --output-dir outputs/
 python yoloface.py --src 1 --output-dir outputs/
+
+# Reference:
+Thanks to https://github.com/sthanhng/yoloface
+I used part of this project, changed some codes of it.
